@@ -1,1 +1,0 @@
-find . -name "__jac_gen__" -exec rm -rf {} \;
